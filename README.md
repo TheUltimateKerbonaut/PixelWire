@@ -5,7 +5,7 @@ A [Wireworld](https://en.wikipedia.org/wiki/Wireworld) cellular automaton writte
 * Altering simulation speed
 
 ## Screenshots
-<img width=40% src="https://raw.githubusercontent.com/TheUltimateKerbonaut/PixelWire/master/Screenshots/andGate.png" alt="AND gate screenshot"/>
+<img src="https://raw.githubusercontent.com/TheUltimateKerbonaut/PixelWire/master/Screenshots/andGate.png" alt="AND gate screenshot"/>
 
 ## Usage
 * On Windows, compile by opening the solution in Visual Studio then building. If you wish to include the in-built debugger, compile under debug mode.
