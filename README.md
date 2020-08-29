@@ -15,11 +15,17 @@ cd PixelWire
 g++ -o PixelWire *.cpp *.c -lX11 -lGL -lpthread -lpng -lstdc++fs -std=c++17 -fpermissive
 ./PixelWire
 ```
-Then run the application.
+* On MacOS, which at the time of writing only has experimental support, do the following:
+```
+cd PixelWire
+clang++ -arch x86_64 -std=c++17 -mmacosx-version-min=10.15 -Wall -framework OpenGL -framework GLUT -lpng *.cpp -o PixelWire
+./PixelWire
+```
 
 ## Supported platforms
 * Windows
 * Linux
+* MacOS (experimental)
 
 ## Dependencies
 All dependencies are included with the source code. These include:
