@@ -8,7 +8,7 @@ A [Wireworld](https://en.wikipedia.org/wiki/Wireworld) cellular automaton writte
 <img src="https://raw.githubusercontent.com/TheUltimateKerbonaut/PixelWire/master/Screenshots/andGate.png" alt="AND gate screenshot"/>
 
 ## Usage
-* On Windows, compile by opening the solution in Visual Studio then building. If you wish to include the in-built debugger, compile under debug mode.
+* On Windows, compile by opening the solution in Visual Studio then building.
 * On Linux, run these commands:
 ```
 cd PixelWire
