@@ -178,7 +178,7 @@ public:
 		
 		for (int x = 0; x < nWorldWidth; ++x)
 			for (int y = 0; y < nWorldHeight; ++y)
-				m_World[x][y].state = (PixelWire<width, height>::Cell::State) (line[y*nWorldWidth + x] - '0');
+				m_World[x][y].state = (typename PixelWire<width, height>::Cell::State) (line[y*nWorldWidth + x] - '0');
 	}
 
 	bool OnUserUpdate(float fElapsedTime) override
