@@ -1,8 +1,6 @@
 
 /*
 	NOTE: Requires at least C++17 (Properties --> C/C++ --> Language --> C++ Language Standard)
-	Uses a slightly modified version of olcPixelGameEngine.h in order to have more control 
-	over the window title.
 */
 
 #define OLC_PGE_APPLICATION
