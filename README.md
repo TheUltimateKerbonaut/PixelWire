@@ -1,6 +1,9 @@
+<img src="https://raw.githubusercontent.com/TheUltimateKerbonaut/PixelWire/master/Screenshots/Logo.png" alt="AND gate screenshot"/>
+
+
 # PixelWire
 A [Wireworld](https://en.wikipedia.org/wiki/Wireworld) cellular automaton written in modern C++. It was made for the
-[olcCodeJam2020](https://itch.io/jam/olc-codejam-2020) (the theme was "The Great Machine!"). Supports:
+[olcCodeJam2020](https://itch.io/jam/olc-codejam-2020/rate/748317) (the theme was "The Great Machine!"). Supports:
 * Saving and loading files
 * Altering simulation speed
 
